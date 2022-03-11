@@ -256,3 +256,6 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+.qstionAnswer{
+  padding-left: 30px;
+}
